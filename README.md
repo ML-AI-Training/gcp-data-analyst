@@ -1,9 +1,9 @@
-# training-data-analyst 
+# gcp-data-analyst 
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
 
 ### Try out the code on Google Cloud Platform
-[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open/?git_repo=https://github.com/GoogleCloudPlatform/training-data-analyst.git)
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open/?git_repo=https://github.com/GoogleCloudPlatform/gcp-data-analyst.git)
 
 ## Courses
 
